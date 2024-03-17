@@ -1,0 +1,193 @@
+[
+  {
+    "recipe_image": "./src/assets/cover/image1.jpg",
+    "recipe_id": 1,
+    "recipe_name": "Stir-fried Chicken with Basil",
+    "short_description": "A quick and flavorful dish perfect for a weeknight meal.",
+    "ingredients": [
+      "550 g boneless, skinless chicken thighs, cut into strips",
+      "120 ml low-sodium soy sauce",
+      "2 tbsp brown sugar",
+      "1 tbsp cornstarch",
+      "1 tbsp vegetable oil",
+      "2 cloves garlic, minced",
+      "1 red onion, thinly sliced",
+      "200 g fresh basil leaves",
+      "400 g sliced mushrooms",
+      "1 red bell pepper, thinly sliced",
+      "Cooked rice, for serving"
+    ],
+    "preparing_time": "30",
+    "calories": 320
+  },
+  {
+    "recipe_image": "./src/assets/cover/image2.jpg",
+    "recipe_id": 2,
+    "recipe_name": "Creamy Tomato Pasta",
+    "short_description": "A comforting and delicious pasta dish made with fresh tomatoes and cream.",
+    "ingredients": [
+      "400 g pasta of your choice",
+      "1 tbsp olive oil",
+      "1 onion, diced",
+      "2 cloves garlic, minced",
+      "400 g canned diced tomatoes",
+      "1 cup heavy cream",
+      "1/2 cup grated Parmesan cheese",
+      "Fresh basil leaves, for garnish",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": "20",
+    "calories": 450
+  },
+  {
+    "recipe_image": "./src/assets/cover/image3.jpg",
+    "recipe_id": 3,
+    "recipe_name": "Black Bean Burgers",
+    "short_description": "A healthy and satisfying vegetarian burger option.",
+    "ingredients": [
+      "1 can (15 oz) black beans, rinsed and drained",
+      "1/2 cup cooked brown rice",
+      "1/4 cup breadcrumbs",
+      "1/4 cup chopped red onion",
+      "1 egg, beaten",
+      "1 tbsp olive oil",
+      "1 tsp chili powder",
+      "1/2 tsp cuminutes",
+      "Salt and pepper to taste",
+      "Hamburger buns, for serving"
+    ],
+    "preparing_time": "30",
+    "calories": 350
+  },
+  {
+    "recipe_image": "./src/assets/cover/image4.jpg",
+    "recipe_id": 4,
+    "recipe_name": "Lemon Garlic Chicken",
+    "short_description": "A simple and elegant chicken dish with a bright lemon flavor.",
+    "ingredients": [
+      "4 boneless, skinless chicken breasts",
+      "1/4 cup olive oil",
+      "2 tbsp lemon juice",
+      "2 tbsp Dijon mustard",
+      "2 cloves garlic, minced",
+      "1 tsp dried oregano",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": "25",
+    "calories": 280
+  },
+  {
+    "recipe_image": "./src/assets/cover/image5.jpg",
+    "recipe_id": 5,
+    "recipe_name": "Cheesy Broccoli Soup",
+    "short_description": "A creamy and cozy soup perfect for a cold day.",
+    "ingredients": [
+      "1 head of broccoli, cut into florets",
+      "1 onion, diced",
+      "2 tbsp butter",
+      "4 cups chicken broth",
+      "1 cup milk",
+      "1/4 cup all-purpose flour",
+      "2 cups shredded cheddar cheese",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": "30",
+    "calories": 300
+  },
+  {
+    "recipe_image": "./src/assets/cover/image6.jpg",
+    "recipe_id": 6,
+    "recipe_name": "One-Pan Chicken Fajitas",
+    "short_description": "An easy and flavorful weeknight meal with minimal cleanup.",
+    "ingredients": [
+      "4 boneless, skinless chicken breasts, sliced",
+      "1 tbsp olive oil",
+      "1 onion, sliced",
+      "1 bell pepper (any color), sliced",
+      "1/2 cup chopped green pepper",
+      "2 cloves garlic, minced",
+      "1 tsp chili powder",
+      "1/2 tsp cuminutes",
+      "1/4 cup lime juice",
+      "Fajita wraps, for serving",
+      "Sour cream, shredded cheese, and your favorite fajita toppings"
+    ],
+    "preparing_time": "20",
+    "calories": 400
+  },
+  {
+    "recipe_image": "./src/assets/cover/image7.jpg",
+    "recipe_id": 7,
+    "recipe_name": "Spicy Tuna Salad",
+    "short_description": "A light and refreshing salad perfect for a summer lunch.",
+    "ingredients": [
+      "2 cans (5 oz) tuna in water, drained",
+      "1/2 cup chopped celery",
+      "1/4 cup chopped red onion",
+      "1/4 cup mayonnaise",
+      "1 tbsp Dijon mustard",
+      "1 tbsp lemon juice",
+      "1 tsp Sriracha sauce (or more to taste)",
+      "Salt and pepper to taste",
+      "Bread slices, for serving"
+    ],
+    "preparing_time": "15",
+    "calories": 250
+  },
+  {
+    "recipe_image": "./src/assets/cover/image8.jpg",
+    "recipe_id": 8,
+    "recipe_name": "Chocolate Chip Cookies",
+    "short_description": "A classic and delicious cookie recipe that everyone will love.",
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "1/2 tsp baking soda",
+      "1/2 tsp salt",
+      "1/2 cup unsalted butter, softened",
+      "1/2 cup granulated sugar",
+      "1/4 cup packed light brown sugar",
+      "1 large egg",
+      "1 tsp vanilla extract",
+      "1 cup semisweet chocolate chips"
+    ],
+    "preparing_time": "20",
+    "calories": 200
+  },
+  {
+    "recipe_image": "./src/assets/cover/image9.jpg",
+    "recipe_id": 9,
+    "recipe_name": "Banana Bread",
+    "short_description": "A moist and flavorful bread perfect for breakfast or a snack.",
+    "ingredients": [
+      "3 ripe bananas, mashed",
+      "1 cup all-purpose flour",
+      "1/2 tsp baking soda",
+      "1/4 tsp salt",
+      "1/2 cup unsalted butter, softened",
+      "1/2 cup granulated sugar",
+      "1/4 cup packed light brown sugar",
+      "1 large egg",
+      "1/2 cup chopped walnuts (optional)"
+    ],
+    "preparing_time": "60",
+    "calories": 300
+  },
+  {
+    "recipe_image": "./src/assets/cover/image10.jpg",
+    "recipe_id": 10,
+    "recipe_name": "Simple Green Salad",
+    "short_description": "A healthy and refreshing salad perfect for any side dish.",
+    "ingredients": [
+      "Mixed greens",
+      "1 cucumber, sliced",
+      "1 tomato, sliced",
+      "1/2 red onion, sliced",
+      "1/4 cup crumbled feta cheese",
+      "2 tbsp olive oil",
+      "1 tbsp lemon juice",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": "10",
+    "calories": 150
+  }
+]
