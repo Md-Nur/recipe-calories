@@ -11,7 +11,7 @@ function App() {
   const [cooking, setCooking] = useState([]);
 
   useEffect(() => {
-    fetch("./src/assets/data.json")
+    fetch("./public/data.json")
       .then((res) => res.json())
       .then((data) => setBlogs(data))
       .catch((e) => toast.error(e));

@@ -1,6 +1,6 @@
 [
   {
-    "recipe_image": "./src/assets/cover/image1.jpg",
+    "recipe_image": "./public/cover/image1.jpg",
     "recipe_id": 1,
     "recipe_name": "Stir-fried Chicken with Basil",
     "short_description": "A quick and flavorful dish perfect for a weeknight meal.",
@@ -21,7 +21,7 @@
     "calories": 320
   },
   {
-    "recipe_image": "./src/assets/cover/image2.jpg",
+    "recipe_image": "./public/cover/image2.jpg",
     "recipe_id": 2,
     "recipe_name": "Creamy Tomato Pasta",
     "short_description": "A comforting and delicious pasta dish made with fresh tomatoes and cream.",
@@ -40,7 +40,7 @@
     "calories": 450
   },
   {
-    "recipe_image": "./src/assets/cover/image3.jpg",
+    "recipe_image": "./public/cover/image3.jpg",
     "recipe_id": 3,
     "recipe_name": "Black Bean Burgers",
     "short_description": "A healthy and satisfying vegetarian burger option.",
@@ -60,7 +60,7 @@
     "calories": 350
   },
   {
-    "recipe_image": "./src/assets/cover/image4.jpg",
+    "recipe_image": "./public/cover/image4.jpg",
     "recipe_id": 4,
     "recipe_name": "Lemon Garlic Chicken",
     "short_description": "A simple and elegant chicken dish with a bright lemon flavor.",
@@ -77,7 +77,7 @@
     "calories": 280
   },
   {
-    "recipe_image": "./src/assets/cover/image5.jpg",
+    "recipe_image": "./public/cover/image5.jpg",
     "recipe_id": 5,
     "recipe_name": "Cheesy Broccoli Soup",
     "short_description": "A creamy and cozy soup perfect for a cold day.",
@@ -95,7 +95,7 @@
     "calories": 300
   },
   {
-    "recipe_image": "./src/assets/cover/image6.jpg",
+    "recipe_image": "./public/cover/image6.jpg",
     "recipe_id": 6,
     "recipe_name": "One-Pan Chicken Fajitas",
     "short_description": "An easy and flavorful weeknight meal with minimal cleanup.",
@@ -116,7 +116,7 @@
     "calories": 400
   },
   {
-    "recipe_image": "./src/assets/cover/image7.jpg",
+    "recipe_image": "./public/cover/image7.jpg",
     "recipe_id": 7,
     "recipe_name": "Spicy Tuna Salad",
     "short_description": "A light and refreshing salad perfect for a summer lunch.",
@@ -135,7 +135,7 @@
     "calories": 250
   },
   {
-    "recipe_image": "./src/assets/cover/image8.jpg",
+    "recipe_image": "./public/cover/image8.jpg",
     "recipe_id": 8,
     "recipe_name": "Chocolate Chip Cookies",
     "short_description": "A classic and delicious cookie recipe that everyone will love.",
@@ -154,7 +154,7 @@
     "calories": 200
   },
   {
-    "recipe_image": "./src/assets/cover/image9.jpg",
+    "recipe_image": "./public/cover/image9.jpg",
     "recipe_id": 9,
     "recipe_name": "Banana Bread",
     "short_description": "A moist and flavorful bread perfect for breakfast or a snack.",
@@ -173,7 +173,7 @@
     "calories": 300
   },
   {
-    "recipe_image": "./src/assets/cover/image10.jpg",
+    "recipe_image": "./public/cover/image10.jpg",
     "recipe_id": 10,
     "recipe_name": "Simple Green Salad",
     "short_description": "A healthy and refreshing salad perfect for any side dish.",

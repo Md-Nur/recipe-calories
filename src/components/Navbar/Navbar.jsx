@@ -31,7 +31,7 @@ const Navbar = () => {
             <div className="w-10 rounded-full">
               <img
                 alt="Avatar"
-                src="./src/assets/avatar.png"
+                src="./public/avatar.png"
               />
             </div>
           </div>
